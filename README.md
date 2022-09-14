@@ -5,3 +5,4 @@ and blows falling cherry blossom petals in the background. NOTE: I am in no way 
 of the animation
 
 ## The Tree in action 
+![Cherry_blossom_small](https://user-images.githubusercontent.com/82865312/190065808-da8758aa-04f1-42ce-9c48-5b77dd0bb492.gif)
